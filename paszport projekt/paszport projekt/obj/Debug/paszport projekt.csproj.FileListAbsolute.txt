@@ -1,0 +1,20 @@
+C:\Users\Szymon Jakubowski\Dropbox\Technikum\Zaw. Pani Hania\KLASA II\PP\c#\paszport projekt\paszport projekt\obj\Debug\paszport projekt.csproj.AssemblyReference.cache
+C:\Users\Szymon Jakubowski\Dropbox\Technikum\Zaw. Pani Hania\KLASA II\PP\c#\paszport projekt\paszport projekt\obj\Debug\paszport_projekt.Form1.resources
+C:\Users\Szymon Jakubowski\Dropbox\Technikum\Zaw. Pani Hania\KLASA II\PP\c#\paszport projekt\paszport projekt\obj\Debug\paszport_projekt.Properties.Resources.resources
+C:\Users\Szymon Jakubowski\Dropbox\Technikum\Zaw. Pani Hania\KLASA II\PP\c#\paszport projekt\paszport projekt\obj\Debug\paszport projekt.csproj.GenerateResource.cache
+C:\Users\Szymon Jakubowski\Dropbox\Technikum\Zaw. Pani Hania\KLASA II\PP\c#\paszport projekt\paszport projekt\obj\Debug\paszport projekt.csproj.CoreCompileInputs.cache
+C:\Users\Szymon Jakubowski\Dropbox\Technikum\Zaw. Pani Hania\KLASA II\PP\c#\paszport projekt\paszport projekt\bin\Debug\paszport projekt.exe.config
+C:\Users\Szymon Jakubowski\Dropbox\Technikum\Zaw. Pani Hania\KLASA II\PP\c#\paszport projekt\paszport projekt\bin\Debug\paszport projekt.exe
+C:\Users\Szymon Jakubowski\Dropbox\Technikum\Zaw. Pani Hania\KLASA II\PP\c#\paszport projekt\paszport projekt\bin\Debug\paszport projekt.pdb
+C:\Users\Szymon Jakubowski\Dropbox\Technikum\Zaw. Pani Hania\KLASA II\PP\c#\paszport projekt\paszport projekt\obj\Debug\paszport projekt.exe
+C:\Users\Szymon Jakubowski\Dropbox\Technikum\Zaw. Pani Hania\KLASA II\PP\c#\paszport projekt\paszport projekt\obj\Debug\paszport projekt.pdb
+C:\Users\Szyme\Dropbox\Technikum\Zaw. Pani Hania\KLASA II\PP\c#\paszport projekt\paszport projekt\bin\Debug\paszport projekt.exe.config
+C:\Users\Szyme\Dropbox\Technikum\Zaw. Pani Hania\KLASA II\PP\c#\paszport projekt\paszport projekt\bin\Debug\paszport projekt.exe
+C:\Users\Szyme\Dropbox\Technikum\Zaw. Pani Hania\KLASA II\PP\c#\paszport projekt\paszport projekt\bin\Debug\paszport projekt.pdb
+C:\Users\Szyme\Dropbox\Technikum\Zaw. Pani Hania\KLASA II\PP\c#\paszport projekt\paszport projekt\obj\Debug\paszport projekt.csproj.AssemblyReference.cache
+C:\Users\Szyme\Dropbox\Technikum\Zaw. Pani Hania\KLASA II\PP\c#\paszport projekt\paszport projekt\obj\Debug\paszport_projekt.Form1.resources
+C:\Users\Szyme\Dropbox\Technikum\Zaw. Pani Hania\KLASA II\PP\c#\paszport projekt\paszport projekt\obj\Debug\paszport_projekt.Properties.Resources.resources
+C:\Users\Szyme\Dropbox\Technikum\Zaw. Pani Hania\KLASA II\PP\c#\paszport projekt\paszport projekt\obj\Debug\paszport projekt.csproj.GenerateResource.cache
+C:\Users\Szyme\Dropbox\Technikum\Zaw. Pani Hania\KLASA II\PP\c#\paszport projekt\paszport projekt\obj\Debug\paszport projekt.csproj.CoreCompileInputs.cache
+C:\Users\Szyme\Dropbox\Technikum\Zaw. Pani Hania\KLASA II\PP\c#\paszport projekt\paszport projekt\obj\Debug\paszport projekt.exe
+C:\Users\Szyme\Dropbox\Technikum\Zaw. Pani Hania\KLASA II\PP\c#\paszport projekt\paszport projekt\obj\Debug\paszport projekt.pdb
